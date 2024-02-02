@@ -1,1 +1,1 @@
-AirBnB Cloned
+I am happy to announce that I have created a complete replica of Airbnb. TypeScript was the primary programming language used for the project. Next.js with NextAuth was used for authentication, and Mongodb for the database, along with Prism.
